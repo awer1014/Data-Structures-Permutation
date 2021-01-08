@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/10/14 22:27:06.000.163,=d:\Code\Project1PCH1.h</Transaction>
+    <Transaction>2019/10/14 22:27:07.000.811,=d:\Code\Unit1.cpp</Transaction>
+    <Transaction>2019/10/14 22:39:43.000.024,d:\Code\Unit1.h=D:\Code\Data Structures\HW2_07360194_陳維嶸 Permutation\Unit1.h</Transaction>
+    <Transaction>2019/10/14 22:39:43.000.024,d:\Code\Unit1.dfm=D:\Code\Data Structures\HW2_07360194_陳維嶸 Permutation\Unit1.dfm</Transaction>
+    <Transaction>2019/10/14 22:39:43.000.024,d:\Code\Unit1.cpp=D:\Code\Data Structures\HW2_07360194_陳維嶸 Permutation\Unit1.cpp</Transaction>
+    <Transaction>2019/10/14 23:23:56.000.783,d:\Code\Project1PCH1.h=D:\Code\Data Structures\HW2_07360194_陳維嶸 Permutation\Project1PCH1.h</Transaction>
+    <Transaction>2019/10/14 23:23:59.000.802,d:\Code\Project1.cbproj=D:\Code\Data Structures\HW2_07360194_陳維嶸 Permutation\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
